@@ -1,4 +1,4 @@
-<img width="251" alt="Hacktoberfest_19_Events_500x500" src="https://user-images.githubusercontent.com/29935993/64358452-1e769a00-d024-11e9-9bb0-85255a8cdd81.png">
+![Hacktoberfest_19_Events_730x90](https://user-images.githubusercontent.com/29935993/64358672-84632180-d024-11e9-8131-dee3f75b7cd1.png)
 
 # CONTRIBUTING DOCS
 
