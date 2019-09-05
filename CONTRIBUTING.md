@@ -1,3 +1,5 @@
+![Hacktoberfest_19_Events_730x90](https://user-images.githubusercontent.com/29935993/64358672-84632180-d024-11e9-8131-dee3f75b7cd1.png)
+
 # CONTRIBUTING DOCS
 
 * The aim of this repository is to help people getting started on how to start sending a Pull Requests.
