@@ -1,14 +1,14 @@
 #include <iostream>
 using namespace std;
-int sum(int a, int b)//function declared
+int sum(int a, int b)
 {
-    int sum = a + b;//initialising sum
-    return(sum);
+    int sum = a + b;
+    return sum;
 }
 int main()
 {
-    int x=0, y=0, z=0;
-    cin>>x>>y;//input x and y
-    z=sum(x,y);//assigning the value of sum in z
-    cout<<z;
+    int x=0, y=0;
+    cin>>x>>y;
+    int z=sum(x,y);
+    cout<<z<<endl;
 }
