@@ -1,0 +1,4 @@
+include<stduino.h>
+int main(){
+printf("hello world");
+}
