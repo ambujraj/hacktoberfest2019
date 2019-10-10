@@ -1,3 +1,5 @@
+// Author: [Phyllipe Bezerra](https://github.com/pmba)
+
 #include <stdio.h>
 #include <string.h>
 

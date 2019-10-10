@@ -1,3 +1,5 @@
+# Author: [Phyllipe Bezerra](https://github.com/pmba)
+
 def reversed(word):
     return word[::-1]
 
