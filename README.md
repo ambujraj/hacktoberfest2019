@@ -37,6 +37,7 @@
 + Create an arrow using CSS.
 + Convert Roman numeral.
 + Telephone number validator.
++ Recommendations for Learning How to Program
 
 ## Getting Started
 
