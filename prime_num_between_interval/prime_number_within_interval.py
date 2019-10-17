@@ -1,4 +1,4 @@
-print("Space separated lower and upper limit")
+print("Enter space separated lower and upper limit")
 
 lower, upper = [int(x) for x in input().split(' ')]
 
