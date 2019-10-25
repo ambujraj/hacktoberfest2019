@@ -12,8 +12,9 @@ for (i = 0; i < a.length(); i++)
 {
 if (a.charAt(i) >= 'a' && a.charAt(i) <= 'z')
 	index = str.charAt(i) - 'a';
-}
 arr[index] = 1;
+}
+
 for (i = 0; i < arr.length; i++)
 {
 if (arr[i] == 0){
