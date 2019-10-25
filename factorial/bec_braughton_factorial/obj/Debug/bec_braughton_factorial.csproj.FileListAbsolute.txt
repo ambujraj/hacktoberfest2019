@@ -1,0 +1,7 @@
+C:\Users\Bec\Documents\Hacktoberfest19\factorial_function_cSharp\hacktoberfest2019\factorial\bec_braughton_factorial\bin\Debug\bec_braughton_factorial.exe.config
+C:\Users\Bec\Documents\Hacktoberfest19\factorial_function_cSharp\hacktoberfest2019\factorial\bec_braughton_factorial\bin\Debug\bec_braughton_factorial.exe
+C:\Users\Bec\Documents\Hacktoberfest19\factorial_function_cSharp\hacktoberfest2019\factorial\bec_braughton_factorial\bin\Debug\bec_braughton_factorial.pdb
+C:\Users\Bec\Documents\Hacktoberfest19\factorial_function_cSharp\hacktoberfest2019\factorial\bec_braughton_factorial\obj\Debug\bec_braughton_factorial.csprojAssemblyReference.cache
+C:\Users\Bec\Documents\Hacktoberfest19\factorial_function_cSharp\hacktoberfest2019\factorial\bec_braughton_factorial\obj\Debug\bec_braughton_factorial.csproj.CoreCompileInputs.cache
+C:\Users\Bec\Documents\Hacktoberfest19\factorial_function_cSharp\hacktoberfest2019\factorial\bec_braughton_factorial\obj\Debug\bec_braughton_factorial.exe
+C:\Users\Bec\Documents\Hacktoberfest19\factorial_function_cSharp\hacktoberfest2019\factorial\bec_braughton_factorial\obj\Debug\bec_braughton_factorial.pdb
