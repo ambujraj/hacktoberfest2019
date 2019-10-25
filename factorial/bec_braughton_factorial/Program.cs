@@ -1,5 +1,5 @@
 ﻿//  Author: Bec Braughton
-//  Language: Python 2.7.12
+//  Language: C#
 //  Github: https://github.com/beckton
 
 //https://github.com/ambujraj/hacktoberfest2019
